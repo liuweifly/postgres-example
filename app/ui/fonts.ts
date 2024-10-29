@@ -7,6 +7,5 @@ export const lusitana = Lusitana({
 });
 export const playwrite = Roboto({
   weight: '400',
-//   display: 'swap',
-  //subsets: ['latin'],
+  subsets: ['latin'],
 });
